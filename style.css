@@ -1,0 +1,73 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ .titulo{
+    text-align: center;
+}
+
+.conteudo{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.quad{
+    font-style: italic;
+    color: darkgrey;
+    padding: 3px;
+    border: solid;
+    border-color: darkcyan;
+    border-top: 1px;   
+    border-bottom: 1px;
+    border-right: 1px;
+    padding-top: 0.1px;
+}
+
+.bordinha{
+    right: 135px;
+    border: 0.1px solid grey;
+    width: 100%;
+}
+
+.sub{
+    margin-top: 5%;
+    padding: 0.1%;
+    border: solid;
+    border-color: darkcyan;
+    border-top: 1px;   
+    border-bottom: 1px;
+    border-right: 1px;
+} 
+
+.conteudo1{
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.sub1{
+    margin-top: 5%;
+    padding: 0.1%;
+    border: solid;
+    border-color: darkcyan;
+    border-top: 1px;   
+    border-bottom: 1px;
+    border-right: 1px;
+}
+
+.text{
+    margin-right: 55%;
+}
+
+.imagem{
+    position: absolute;
+    left: 55%;
+    bottom: 25%;
+}   
+
+.bloco2{
+    font-weight: bold;
+    margin-top: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
